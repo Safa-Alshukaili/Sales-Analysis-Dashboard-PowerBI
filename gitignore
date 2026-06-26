@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Office temp files
+~$*.docx
+~$*.doc
+*.tmp
+
+# Power BI temp/cache files (if .pbix is added later)
+*.pbix.bak
+*.pbix.lock
+
+# Python (in case scripts are added later)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
