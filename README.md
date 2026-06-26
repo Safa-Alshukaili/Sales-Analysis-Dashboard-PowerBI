@@ -48,15 +48,15 @@ The goal is to move beyond traditional descriptive reporting into **predictive a
 
 **Sales overview with city & channel breakdown** — total sales, profit, profit margin %, and order count, filterable by date, city, product, and channel, with a geographic distribution map:
 
-![Sales Dashboard — City and Channel Distribution](./images/dashboard-power-bi.png.png)
+![Sales Dashboard — City and Channel Distribution](./images/dashboard-power-bi.png)
 
 **KPI summary view** — year-over-year sales comparison, profit margin, and order count, alongside sales trends by product, city, and channel:
 
-![Sales Dashboard — KPI Overview](./images/dashboard-kpi-overview.png.png)
+![Sales Dashboard — KPI Overview](./images/dashboard-kpi-overview.png)
 
 **Predictive forecasting & key influencers** — 30-day sales forecast, forecast accuracy score, and AI-identified key influencers behind sales changes:
 
-![Sales Dashboard — Forecast & Key Influencers](./images/dashboard-forecast.png.png)
+![Sales Dashboard — Forecast & Key Influencers](./images/dashboard-forecast.png)
 
 ---
 
